@@ -4,7 +4,7 @@
 
 Poner en marcha el proyecto en tu entorno local, entender para que sirve cada pieza minima del setup y verificar que la aplicacion responde en el navegador.
 
-En esta primera clase no alcanza con "hacerlo andar". Tenes que empezar a distinguir que problema resuelve cada paso: aislamiento del entorno, instalacion de dependencias, arranque del servidor y renderizado de una plantilla HTML.
+En esta primera clase no alcanza con "hacerlo andar". Tienes que empezar a distinguir que problema resuelve cada paso: aislamiento del entorno, instalacion de dependencias, arranque del servidor y renderizado de una plantilla HTML.
 
 ## Requisitos previos
 
@@ -89,4 +89,4 @@ La tarea se considera completa si puedes demostrar estas cuatro cosas:
 
 ## Cierre
 
-No estas aprendiendo a tipear comandos. Estas empezando a construir criterio tecnico. Si hoy entendes que levanta el servidor, de donde salen las dependencias y por que Flask encuentra esa plantilla, entonces arrancaste bien. Simple no significa superficial.
+No estas aprendiendo a tipear comandos. Estas empezando a construir criterio tecnico. Si hoy entiendes que levanta el servidor, de donde salen las dependencias y por que Flask encuentra esa plantilla, entonces arrancaste bien. Simple no significa superficial.
