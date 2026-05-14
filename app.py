@@ -11,8 +11,27 @@ app = Flask(__name__)
 # esta funcion y devuelve la pagina `index.html`.
 @app.route("/")
 def inicio():
-    # `render_template` busca archivos dentro de la carpeta `templates`.
+   
     return render_template("index.html")
+
+
+
+@app.route("/CONTACTO")
+def contacto():
+   
+    return render_template("CONTACTO.html")
+
+
+@app.route("/LOGIN")
+def login():
+   
+    return render_template("LOGIN.html")
+
+@app.route("/HOLA")
+def hola():
+   
+    return render_template("HOLA.html")
+
 
 
 # Este bloque se ejecuta solo si corremos `python app.py` desde la terminal.
