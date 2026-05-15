@@ -16,6 +16,7 @@ def inicio():
 
 
 
+
 @app.route("/CONTACTO")
 def contacto():
    
@@ -34,6 +35,7 @@ def hola():
 
 
 
+=======
 # Este bloque se ejecuta solo si corremos `python app.py` desde la terminal.
 if __name__ == "__main__":
     # `debug=True` sirve en desarrollo porque reinicia el servidor
